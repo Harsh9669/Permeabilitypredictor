@@ -1,2 +1,5 @@
 rdkit-pypi
-sklearn
+scikit-learn
+pandas
+numpy 
+streamlit
