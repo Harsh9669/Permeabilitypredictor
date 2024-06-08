@@ -6,7 +6,7 @@ import numpy as np
 import pickle
 
 # Load the pre-trained model
-model_path = 'D:/peptide/Web App/trained_model.sav'
+model_path = 'trained_model.sav'
 with open(model_path, 'rb') as model_file:
     model = pickle.load(model_file)
 
